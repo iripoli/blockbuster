@@ -1,0 +1,29 @@
+{
+  "name": "blockbuster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iripoli/blockbuster.git"
+  },
+  "keywords": [
+    "store",
+    "videos",
+    "api",
+    "node"
+  ],
+  "author": "Ignacio Ripoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iripoli/blockbuster/issues"
+  },
+  "homepage": "https://github.com/iripoli/blockbuster#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1"
+  }
+}
